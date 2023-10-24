@@ -72,3 +72,10 @@ PS E:\@@git\react_1\react-app_1> npm run dev
 
 > react-app_1@0.0.0 dev
 > vite
+
+
+git add .
+
+git commit -m "Your commit message here"
+
+git push origin <branch-name>
